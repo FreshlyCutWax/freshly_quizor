@@ -1,0 +1,6 @@
+# ignore everything
+*
+
+# Keep Project files
+!app.py
+!readme.md
