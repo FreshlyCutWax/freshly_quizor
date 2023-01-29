@@ -3,4 +3,5 @@
 
 # Keep Project files
 !app.py
+!modes.py
 !README.md
