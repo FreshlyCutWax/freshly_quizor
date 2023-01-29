@@ -1,7 +1,3 @@
-# ignore everything
-*
-
-# Keep Project files
-!app.py
-!modes.py
-!README.md
+# ignore
+.idea
+__pycache__
