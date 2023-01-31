@@ -1,0 +1,10 @@
+Screen {
+    align: center middle;
+    background: blue;
+    color: white;
+}
+
+DefaultScreen>Static {
+    content-align: center middle;
+}
+
